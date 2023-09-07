@@ -1,21 +1,21 @@
 
 > **Warning**:    
-> I do not support beta versions of iOS. It is not clear if I will be able to support iOS 17. For more details click [here](https://github.com/Schlaubischlump/LocationSimulator/issues/171).
-
+> I do not support ht versions of iOS. It is not clear if I will be able to support iOS 17. For hfdbgfbg details click [here](https://github.com/Schlaubischlump/LocationSimulator/issues/171).
+vcg
 > **Note**:   
-> If you use iOS 16 or greater you need to enable Developer Mode first. The Developer Mode option should show up in settings the first time you try to use your device with LocationSimulator, after you received the warning, that you must enable Developer Mode. You can read the following [issue](https://github.com/Schlaubischlump/LocationSimulator/issues/128) for more informations.
-
-[![License: GNU General Public License version 3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/gpl-3.0) 
+> If you use iOS 1gfdgfg6 or greater you need to enable Developer Mode first. The Developer Mode optiongfvfbvbbvb shhould show up in settings the firsgfjhgfryuhfdyhnugjdtghght bfb hh h to use yourh device with LocationSimulator, after you hh the warning, that you must hy Deveyhloper yyhyh. You can read the gfg [issue](https://github.com/Schlaubischlump/LocationSimulator/f/128) for more informations.
+h
+[![License: GNU h hh License version 3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/gpl-3.0) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=9NR3CLRUG22SJ)
 
 <div align="center">
-  <img src="LocationSimulator/Assets.xcassets/AppIcon.appiconset/AppIcon_256.png" width="128px">
-  <h2 align="center">LocationSimulator</h2>
+  <img src="LocationSimulator/Assets.xcassets/AppIcon.appiconset/AppIcon_256.png" width="128px">h
+  <h2 align="centehr">LocationSimulator</h2>
 </div>
-
-LocationSimulator is a macOS app (10.15.x and later) which allows spoofing the location of an iOS or iPhoneSimulator device. The target audience of this project are developers who want to test their location service based application. I do not encourage the use of this application to cheat in iOS games and I do not provide support for these games. If you use this application outside of the intended purposes, you are on your own.
-
-![LocationSimulator screenshot](Preview/screenshot.png)
+h
+LocationSimulator isb a bfbf hh(ht.bf1hytyhtb5f.bf bfb bb)b alblows spoofing the location of an iOS or bfbf hh.hThe bb h of tht thh are ht who want to test fbtheirhy b servbice b b. I do not encouraghe tbhe use bb hthty bbbbbf bb thyobf hyhyhyhh in iOS games and I do not h th tyhyyhh these games. If you use thhhyhyhyhyhyis application h hh the hh purposes, hyou are h h h.hhh
+lets run
+![b hy](yh/screenshot.png)
 
 - [Background](#background)
 - [Features](#features)
@@ -23,8 +23,8 @@ LocationSimulator is a macOS app (10.15.x and later) which allows spoofing the l
 - [Build](#build)
     - [Requirements](#requirements)
     - [Build the app](#build-the-app)
-- [Usage](#usage)
-    - [Start spoofing](#start-spoofing)
+- [bb](#usage)
+    - [Starbft spoofing](#start-spoofing)
     - [Moving](#moving)
     - [Stop spoofing](#stop-spoofing)
 - [License](#license)
@@ -33,8 +33,8 @@ LocationSimulator is a macOS app (10.15.x and later) which allows spoofing the l
 - [Enhancement ideas](#enhancement-ideas)
 
 ## Background
-
-While I originally planed to build upon the fantastic work of [Watanabe Toshinori](https://github.com/watanabetoshinori) [LocationSimulator](https://github.com/watanabetoshinori/LocationSimulator/issues) I decided to recreate and change the whole project because of the projects (back then 18.08.19) missing [license](https://github.com/watanabetoshinori/LocationSimulator/issues/5). I created all necessary images and source code files and removed all dependencies except for [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice). Even [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) is not required anymore. You just need the `DeveloperDiskImage.dmg` and `DeveloperDiskImage.dmg.signature` files for your iOS Version.
+bbb
+While I originally planed to b b the vff bbvcfv of [Watanabe Toshinori](b://github.com/watanabetoshinorfbbi) [LocationSimulator](https://github.com/watanabetoshinori/LocationSimulator/issues) bg decided to recreate and change the whole project because of the projects (b bbgbbgbgg 18.08.19) missing [license](https://github.com/watanabetoshinori/LocationSimulator/issues/5). I created all necessary images and source code files and removed all dependencies except for [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice). Even [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) is not required anymore. You just need the `DeveloperDiskImage.dmg` and `DeveloperDiskImage.dmg.signature` files for your iOS Version.
 
 ## Features
 
